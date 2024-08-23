@@ -13,10 +13,19 @@ Ich würde gerne mehr Programmieren. Mein VBV war eine bessere Planung, für die
 Was wäre ein geeignetes Projekt für diese LP6?
 Den Fokus auf das Modul 320 legen da es sehr wichtig ist für weitere Module.
 
-23.4.2024
+23.8.2024
+Heute habe ich alle Arbeitspakete wie geplant erledigt.
+
+23.8.2024
+- [x] Repetition von den Aufgaben vom Montag (Modul 320)
+- [x] Planung für nächste Woche machen
+- [x] C# nochmals auffrischen
 
 
-30.4.2024
-- [ ] Repetition von den Aufgaben vom Montag (Modul 320)
+30.8.2024
+Heute habe ich alle Arbeitspakete wie geplant erledigt.
+
+30.8.2024
+- [ ] Aufgaben Modul 320
 - [ ] Planung für nächste Woche machen
-- [ ] C# nochmals auffrischen
+- [ ] C# Verbessern
