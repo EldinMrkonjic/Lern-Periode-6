@@ -17,6 +17,6 @@ Den Fokus auf das Modul 320 legen da es sehr wichtig ist für weitere Module.
 
 
 30.4.2024
-- [] Repetition von den Aufgaben vom Montag (Modul 320)
-- [] Planung für nächste Woche machen
-- [] C# nochmals auffrischen
+- [ ] Repetition von den Aufgaben vom Montag (Modul 320)
+- [ ] Planung für nächste Woche machen
+- [ ] C# nochmals auffrischen
