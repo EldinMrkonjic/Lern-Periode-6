@@ -26,6 +26,12 @@ Heute habe ich alle Arbeitspakete wie geplant erledigt.
 Heute habe ich alle Arbeitspakete wie geplant erledigt.
 
 30.8.2024
+- [x] Aufgaben Modul 320
+- [x] Planung für nächste Woche machen
+- [x] C# Verbessern
+
+
+06.09.2024
 - [ ] Aufgaben Modul 320
 - [ ] Planung für nächste Woche machen
 - [ ] C# Verbessern
