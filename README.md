@@ -32,6 +32,13 @@ Heute habe ich alle Arbeitspakete wie geplant erledigt.
 
 
 06.09.2024
-- [ ] Aufgaben Modul 320
+- [x] Aufgaben Modul 320
+- [x] Planung für nächste Woche machen
+- [x] C# Verbessern
+
+
+
+13.09.2024
+- [ ] HZ2 Für Modul 320 arbeiten/fertigstellen
 - [ ] Planung für nächste Woche machen
-- [ ] C# Verbessern
+- [ ] Repetition von Fachbegriffen aller Module
