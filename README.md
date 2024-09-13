@@ -39,6 +39,12 @@ Heute habe ich alle Arbeitspakete wie geplant erledigt.
 
 
 13.09.2024
-- [ ] HZ2 Für Modul 320 arbeiten/fertigstellen
+- [x] HZ2 Für Modul 320 arbeiten/fertigstellen
+- [x] Planung für nächste Woche machen
+- [x] Repetition von Fachbegriffen aller Module
+
+
+20.09.2024
+- [ ] HZ2/3 Für Modul 320 arbeiten/fertigstellen
 - [ ] Planung für nächste Woche machen
 - [ ] Repetition von Fachbegriffen aller Module
