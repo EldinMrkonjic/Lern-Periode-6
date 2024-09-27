@@ -45,6 +45,19 @@ Heute habe ich alle Arbeitspakete wie geplant erledigt.
 
 
 20.09.2024
-- [ ] HZ2/3 Für Modul 320 arbeiten/fertigstellen
+- [x] HZ2/3 Für Modul 320 arbeiten/fertigstellen
+- [x] Planung für nächste Woche machen
+- [x] Repetition von Fachbegriffen aller Module
+
+Bericht:
+Im Laufe meiner Arbeit mit OOP habe ich die wesentlichen Konzepte wie Klassen, Objekte, Vererbung und Polymorphismus gut verinnerlicht. Die Strukturierung des Codes in eigenständige Objekte macht Programme übersichtlicher und flexibler. Besonders hilfreich ist die Wiederverwendung von Code durch Vererbung und die Kapselung von Daten, was zu saubereren Designs führt.
+
+Bisher bin ich auf keine größeren Probleme gestoßen. Herausforderungen konnte ich durch Recherche und Anwendung der Prinzipien bewältigen. Allerdings sehe ich noch Potenzial in der Weiterentwicklung meiner Fähigkeiten im Bereich der Softwarearchitektur und des Managements komplexer Abhängigkeiten. Hier könnte ich Unterstützung gebrauchen, um skalierbare Architekturen besser zu verstehen.
+
+Fazit: Keine größeren Schwierigkeiten, aber Bedarf an vertiefter Kenntnis in fortgeschrittenen Architekturen.
+
+
+27.09.2024
+- [ ] HZ3 Für Modul 320 fertigstellen
 - [ ] Planung für nächste Woche machen
-- [ ] Repetition von Fachbegriffen aller Module
+- [ ] An der OBA für Modul 320 arbeiten
