@@ -58,6 +58,6 @@ Fazit: Keine größeren Schwierigkeiten, aber Bedarf an vertiefter Kenntnis in f
 
 
 27.09.2024
-- [ ] HZ3 Für Modul 320 fertigstellen
-- [ ] Planung für nächste Woche machen
-- [ ] An der OBA für Modul 320 arbeiten
+- [x] HZ3 Für Modul 320 fertigstellen
+- [x] Planung für nächste Woche machen
+- [x] An der OBA für Modul 320 arbeiten
